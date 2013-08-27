@@ -1,9 +1,6 @@
 MENU BEGIN DSLLINUX
+MENU TITLE DSL 4.4.10
 MENU LABEL ^DSL 4.4.10
-# ------====> Include Menu Settings <====------
-MENU INCLUDE er/menuinc/header.module
-
-# ------====> Set Specific Page Settings <====------
 MENU BACKGROUND er/plugins/dsl/dsl.png
 
 MENU INCLUDE er/plugins/dsl/dslmain.menu
